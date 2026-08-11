@@ -5,7 +5,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bishrav-shiwakoti-603201345/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bishrav.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bishrav-portfolio-production.up.railway.app)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bishravs@gmail.com)
 
 </div>
@@ -18,7 +18,7 @@ Mid-level full-stack developer based in **Kathmandu, Nepal** 🇳🇵, currently
 
 - 🏢 Working at **Aspire Group** and **Mobizilla Digital Agency**
 - 🎓 BSc (Hons) Computing — Coventry University (via Softwarica), graduating 2027
-- 🌐 Live projects: **[liveboard.up.railway.app](https://liveboard-production-6a27.up.railway.app)** · **[shunya.com.np](https://shunya.com.np)**
+- 🌐 Live projects: **[LiveBoard](https://liveboard-production-6a27.up.railway.app)** · **[DevLens](https://devlens-production-5624.up.railway.app)**
 - 🤝 Open to **mid-level full-stack** and **backend** roles
 
 ---
@@ -65,7 +65,7 @@ Mid-level full-stack developer based in **Kathmandu, Nepal** 🇳🇵, currently
 |---------|-------|------|-------------|
 | [**LiveBoard**](https://github.com/Bishrav/LiveBoard) | Next.js · Socket.io · Redis · PostgreSQL | [🌐 Live](https://liveboard-production-6a27.up.railway.app) | Real-time collaborative task manager — JWT auth, board rooms, presence, CI/CD |
 | [**SkillSwapWeb**](https://github.com/Bishrav/SkillSwapWeb) | React · Express · PostgreSQL · JWT | — | Full-stack skill-sharing platform with social graph, cart, orders, and test suite |
-| [**Shunya-Corp**](https://github.com/Bishrav/Shunya-Corp) | Next.js · TypeScript · Three.js | [🌐 Live](https://shunya.com.np) | Corporate 3D web platform with CI/CD pipeline |
+| [**DevLens**](https://github.com/Bishrav/DevLens) | Next.js · OpenAI API · PostgreSQL | [🌐 Live](https://devlens-production-5624.up.railway.app) | AI-powered code review workspace with structured findings, review history, and analytics |
 | [**Mining**](https://github.com/Bishrav/Mining) | Python · FastAPI · Docker · AI | — | Autonomous mining platform with AI agent, Prometheus metrics, Grafana dashboards |
 | [**mobizlla**](https://github.com/Bishrav/mobizlla) | Next.js · TypeScript · PostgreSQL | — | E-commerce and admin dashboard with JSONB fields, UUID keys, and JWT auth |
 | [**SkillSwaper**](https://github.com/Bishrav/SkillSwaper) | Kotlin · Jetpack Compose · Firebase | — | Android skill-sharing app with real-time data, posts, notifications, and payments |
