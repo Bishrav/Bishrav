@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Bishrav+%F0%9F%91%8B;Full-Stack+Software+Developer;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Node.js;Python+%E2%80%A2+FastAPI+%E2%80%A2+PostgreSQL+%E2%80%A2+Docker;Building+products+from+Kathmandu%2C+Nepal+%F0%9F%87%B3%F0%9F%87%B5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Bishrav+%F0%9F%91%8B;Full-Stack+%26+ML+Systems+Developer;Python+%E2%80%A2+Kafka+%E2%80%A2+Neo4j+%E2%80%A2+FastAPI;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Node.js;Building+production+systems+from+Kathmandu+%F0%9F%87%B3%F0%9F%87%B5" alt="Typing SVG" />
 
 <br/>
 
@@ -14,12 +14,12 @@
 
 ## About me
 
-Mid-level full-stack developer based in **Kathmandu, Nepal** 🇳🇵, currently completing a **BSc (Hons) Computing** at Softwarica College (Coventry University, 2027). I build full-stack web apps, Android mobile apps, REST APIs, and AI-powered tools — from idea to deployed product.
+Mid-level full-stack developer based in **Kathmandu, Nepal** 🇳🇵, currently completing a **BSc (Hons) Computing** at Softwarica College (Coventry University, 2027). I build production systems end-to-end — from ML pipelines and event-driven microservices through REST APIs to deployed frontend dashboards.
 
+- 🔭 Currently building **AEGIS** — a Python microservices flood-risk intelligence platform for Nepal with Kafka, Neo4j, ML ensemble, RAG, and LLM reasoning (Phase 7)
 - 🏢 Working at **Aspire Group** and **Mobizilla Digital Agency**
-- 🎓 BSc (Hons) Computing — Coventry University (via Softwarica), graduating 2027
-- 🌐 Live projects: **[LiveBoard](https://liveboard-production-6a27.up.railway.app)** · **[DevLens](https://devlens-production-5624.up.railway.app)**
-- 🤝 Open to **mid-level full-stack** and **backend** roles
+- 🌐 Live projects: **[LiveBoard](https://liveboard-production-6a27.up.railway.app)** · **[DevLens](https://devlens-production-5624.up.railway.app)** · **[shunya.com.np](https://shunya.com.np)**
+- 🤝 Seeking **full-stack or backend developer** roles in Germany
 
 ---
 
@@ -32,24 +32,29 @@ Mid-level full-stack developer based in **Kathmandu, Nepal** 🇳🇵, currently
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 **Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+**ML / AI / Data**
+
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
 
 **Database & DevOps**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 **Mobile**
 
@@ -63,12 +68,12 @@ Mid-level full-stack developer based in **Kathmandu, Nepal** 🇳🇵, currently
 
 | Project | Stack | Live | Description |
 |---------|-------|------|-------------|
+| [**AEGIS**](https://github.com/Bishrav/AEGIS) | Python · Kafka · Neo4j · ML · RAG · Next.js | Phase 7 | Autonomous flood-risk intelligence platform — microservices, ML ensemble, graph intelligence, LLM reasoning |
 | [**LiveBoard**](https://github.com/Bishrav/LiveBoard) | Next.js · Socket.io · Redis · PostgreSQL | [🌐 Live](https://liveboard-production-6a27.up.railway.app) | Real-time collaborative task manager — JWT auth, board rooms, presence, CI/CD |
-| [**SkillSwapWeb**](https://github.com/Bishrav/SkillSwapWeb) | React · Express · PostgreSQL · JWT | — | Full-stack skill-sharing platform with social graph, cart, orders, and test suite |
-| [**DevLens**](https://github.com/Bishrav/DevLens) | Next.js · OpenAI API · PostgreSQL | [🌐 Live](https://devlens-production-5624.up.railway.app) | AI-powered code review workspace with structured findings, review history, and analytics |
-| [**Mining**](https://github.com/Bishrav/Mining) | Python · FastAPI · Docker · AI | — | Autonomous mining platform with AI agent, Prometheus metrics, Grafana dashboards |
-| [**mobizlla**](https://github.com/Bishrav/mobizlla) | Next.js · TypeScript · PostgreSQL | — | E-commerce and admin dashboard with JSONB fields, UUID keys, and JWT auth |
-| [**SkillSwaper**](https://github.com/Bishrav/SkillSwaper) | Kotlin · Jetpack Compose · Firebase | — | Android skill-sharing app with real-time data, posts, notifications, and payments |
+| [**DevLens**](https://github.com/Bishrav/DevLens) | Next.js · OpenAI API · PostgreSQL · Zod | [🌐 Live](https://devlens-production-5624.up.railway.app) | AI-powered code review tool — structured output, 3-mode fallback, review history |
+| [**SkillSwapWeb**](https://github.com/Bishrav/SkillSwapWeb) | React · Express · PostgreSQL · JWT | — | Full-stack skill-sharing platform with social graph, cart, orders, test suite |
+| [**Shunya-Corp**](https://github.com/Bishrav/Shunya-Corp) | Next.js · TypeScript · Three.js | [🌐 Live](https://shunya.com.np) | Corporate 3D web platform with CI/CD pipeline |
+| [**Mining**](https://github.com/Bishrav/Mining) | Python · FastAPI · Docker · AI | — | Autonomous mining platform with AI agent, Prometheus, Grafana |
 
 ---
 
