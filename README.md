@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Bishrav+%F0%9F%91%8B;Full-Stack+%26+AI%2FML+Systems+Developer;AEGIS+%E2%80%94+Flood+Intelligence+%F0%9F%9F%A2+LIVE;Sentinel+%E2%80%94+Cybersecurity+AI+Engine+%F0%9F%94%B4+Building;Python+%E2%80%A2+Kafka+%E2%80%A2+Neo4j+%E2%80%A2+FastAPI+%E2%80%A2+Next.js;Kathmandu+%E2%80%94+Open+to+Germany+%F0%9F%87%A9%F0%9F%87%AA" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Bishrav+%F0%9F%91%8B;Full-Stack+%26+AI%2FML+Systems+Developer;AEGIS+%E2%80%94+Flood+Intelligence+%F0%9F%9F%A2+LIVE;Sentinel+%E2%80%94+Cybersecurity+AI+Engine+%F0%9F%94%B4+Phase+6+Complete;Python+%E2%80%A2+Kafka+%E2%80%A2+Neo4j+%E2%80%A2+FastAPI+%E2%80%A2+Next.js;Kathmandu+%E2%80%94+Open+to+Germany+%F0%9F%87%A9%F0%9F%87%AA" alt="Typing SVG" />
 
 <br/>
 
@@ -17,7 +17,7 @@
 Full-stack and AI/ML systems developer based in **Kathmandu, Nepal**, completing a **BSc (Hons) Computing** at Softwarica College (Coventry University, 2027). I build production systems end-to-end — ML pipelines, event-driven microservices, graph intelligence, REST APIs, and deployed dashboards.
 
 - AEGIS — autonomous flood-risk intelligence platform · **[Live](https://aegis-dashboard-beta.vercel.app)** · Phase 7 complete
-- Sentinel — cybersecurity threat correlation engine · behavioral ML + attack-path graph · Phase 4 active
+- Sentinel — cybersecurity threat correlation engine · behavioral ML + attack-path graph · **Phase 6 complete** · [Local portfolio project](https://github.com/Bishrav/Sentinel)
 - Also live: **[LiveBoard](https://liveboard-production-6a27.up.railway.app)** · **[DevLens](https://devlens-production-5624.up.railway.app)** · **[shunya.com.np](https://shunya.com.np)**
 - Seeking **full-stack or backend developer** roles in **Germany**
 
@@ -61,7 +61,7 @@ Full-stack and AI/ML systems developer based in **Kathmandu, Nepal**, completing
 | Project | Stack | Status | Description |
 |---------|-------|--------|-------------|
 | [**AEGIS**](https://github.com/Bishrav/AEGIS) | Python · Kafka · Neo4j · ML · RAG | [Live](https://aegis-dashboard-beta.vercel.app) | Flood-risk intelligence — microservices, ML ensemble, graph, LLM reasoning |
-| [**Sentinel**](https://github.com/Bishrav/Sentinel) | Python · Kafka · Neo4j · Isolation Forest | Phase 4 | Cybersecurity threat engine — behavioral ML, attack-path graph, rule detection |
+| [**Sentinel**](https://github.com/Bishrav/Sentinel) | Python · FastAPI · scikit-learn · SQLite | Phase 6 complete · Local | Cybersecurity threat correlation engine — behavioral ML, sequence detection, graph analysis, explainable risk, and evidence-grounded investigation |
 | [**LiveBoard**](https://github.com/Bishrav/LiveBoard) | Next.js · Socket.io · Redis · PostgreSQL | [Live](https://liveboard-production-6a27.up.railway.app) | Real-time collaborative task manager — JWT auth, board rooms, presence |
 | [**DevLens**](https://github.com/Bishrav/DevLens) | Next.js · OpenAI API · PostgreSQL | [Live](https://devlens-production-5624.up.railway.app) | AI code review — structured output, 3-mode fallback, review history |
 | [**SkillSwapWeb**](https://github.com/Bishrav/SkillSwapWeb) | React · Express · PostgreSQL | Done | Full-stack skill-sharing platform with social graph and test suite |
