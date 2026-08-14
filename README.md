@@ -73,6 +73,31 @@ Full-stack and AI/ML systems developer based in **Kathmandu, Nepal**, completing
 
 The most useful evidence is in the repositories themselves: commit history, architecture notes, tests, benchmarks, and project documentation. GitHub's native profile contribution graph remains the source of truth for activity.
 
+<div align="center">
+
+<a href="https://github.com/Bishrav">
+  <img src="https://streak-stats.demolab.com?user=Bishrav&theme=tokyonight&hide_border=true&border_radius=8" alt="Bishrav's GitHub contribution streak" />
+</a>
+
+</div>
+
+### Engineering snapshot
+
+| Focus | Current emphasis |
+| --- | --- |
+| Backend systems | Python, FastAPI, APIs, persistence, authentication |
+| AI/ML engineering | Behavioral ML, evaluation, model integration, evidence grounding |
+| Distributed and real-time systems | Event streams, replay safety, sequence correlation, resilience |
+| Security engineering | Threat graphs, attack paths, risk scoring, investigation workflows |
+
+<div align="center">
+
+<a href="https://github.com/Bishrav">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bishrav&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="Bishrav's GitHub activity graph" />
+</a>
+
+</div>
+
 Explore the main engineering projects:
 
 - [AEGIS](https://github.com/Bishrav/AEGIS) - flood-risk intelligence and AI systems
