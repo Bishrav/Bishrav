@@ -69,23 +69,23 @@ Full-stack and AI/ML systems developer based in **Kathmandu, Nepal**, completing
 
 ---
 
-## GitHub stats
+## GitHub activity
 
-<div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Bishrav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bishrav&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
+The most useful evidence is in the repositories themselves: commit history, architecture notes, tests, benchmarks, and project documentation. GitHub's native profile contribution graph remains the source of truth for activity.
 
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=Bishrav&theme=tokyonight&hide_border=true" />
-</div>
+Explore the main engineering projects:
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bishrav&theme=tokyo-night&hide_border=true&area=true" />
-</div>
+- [AEGIS](https://github.com/Bishrav/AEGIS) - flood-risk intelligence and AI systems
+- [Sentinel](https://github.com/Bishrav/Sentinel) - security telemetry correlation and investigation
+- [LiveBoard](https://github.com/Bishrav/LiveBoard) - real-time collaborative systems
+- [DevLens](https://github.com/Bishrav/DevLens) - AI-assisted developer tooling
+
+[View my GitHub profile and contribution activity](https://github.com/Bishrav)
 
 ---
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Bishrav&color=6366f1&style=flat-square&label=Profile+views" />
+
+Focused on backend systems, AI/ML infrastructure, and reliable engineering.
+
 </div>
