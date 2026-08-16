@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Bishrav+%F0%9F%91%8B;Backend+%26+AI%2FML+Systems+Developer;AEGIS+%E2%80%94+Flood+Intelligence+%F0%9F%9F%A2+LIVE;Sentinel+%E2%80%94+Cybersecurity+AI+%F0%9F%94%B4+Phase+6+Done;Nexus+%E2%80%94+Repository+Intelligence+%F0%9F%94%B5+Building;Python+%E2%80%A2+Kafka+%E2%80%A2+Neo4j+%E2%80%A2+AST+%E2%80%A2+FastAPI;Open+to+Germany+%F0%9F%87%A9%F0%9F%87%AA" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=6366F1&center=true&vCenter=true&width=780&lines=Hey%2C+I'm+Bishrav+%F0%9F%91%8B;Backend+%26+AI%2FML+Systems+Developer;AEGIS+%E2%80%94+Flood+Intelligence+%F0%9F%9F%A2+LIVE;Sentinel+%E2%80%94+Cybersecurity+AI+%F0%9F%94%B4+Done;Nexus+%E2%80%94+Repository+Intelligence+%F0%9F%94%B5+Building;ATLAS+%E2%80%94+C%2B%2B20+Routing+Engine+%E2%9A%99%EF%B8%8F+Active;Open+to+Germany+%F0%9F%87%A9%F0%9F%87%AA" alt="Typing SVG" />
 
 <br/>
 
@@ -14,11 +14,12 @@
 
 ## About me
 
-Backend and AI/ML systems developer based in **Kathmandu, Nepal**, completing a **BSc (Hons) Computing** at Softwarica College (Coventry University, 2027). I build intelligence systems end-to-end — ML pipelines, event-driven microservices, graph analysis, static analysis, REST APIs, and production dashboards.
+Backend and AI/ML systems developer based in **Kathmandu, Nepal**, completing a **BSc (Hons) Computing** at Softwarica College (Coventry University, 2027). I build intelligence systems end-to-end — ML pipelines, event-driven microservices, graph algorithms, C++ engines, and production dashboards.
 
-- **AEGIS** — flood-risk intelligence platform · Kafka · Neo4j · ML · RAG · **[Live](https://aegis-dashboard-beta.vercel.app)**
-- **Sentinel** — cybersecurity threat engine · FSM · Isolation Forest · attack-path graph · Phase 6 complete · 183 files
-- **Nexus** — repository intelligence for AI tooling · Python AST · incremental Git indexing · Phase 5 · active
+- **AEGIS** — flood-risk intelligence · Kafka · Neo4j · ML · RAG · **[Live](https://aegis-dashboard-beta.vercel.app)**
+- **Sentinel** — cybersecurity threat engine · FSM · Isolation Forest · attack-path graph · Phase 6 done
+- **Nexus** — repository intelligence for AI tooling · Python AST · incremental Git indexing · Phase 5
+- **ATLAS** — C++20 routing engine · Dijkstra · A* · bidirectional search · VRP solver planned · Phase 4
 - Also live: **[LiveBoard](https://liveboard-production-6a27.up.railway.app)** · **[DevLens](https://devlens-production-5624.up.railway.app)** · **[shunya.com.np](https://shunya.com.np)**
 - Seeking **backend or full-stack developer** roles in **Germany**
 
@@ -26,20 +27,21 @@ Backend and AI/ML systems developer based in **Kathmandu, Nepal**, completing a 
 
 ## Tech stack
 
-**Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B20-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
 **Backend & Streaming**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
-**ML / AI / Analysis**
+**ML / AI / Graph**
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
@@ -55,14 +57,14 @@ Backend and AI/ML systems developer based in **Kathmandu, Nepal**, completing a 
 
 ## Projects
 
-| Project | Stack | Status | Description |
-|---------|-------|--------|-------------|
-| [**AEGIS**](https://github.com/Bishrav/AEGIS) | Python · Kafka · Neo4j · ML · RAG | [Live](https://aegis-dashboard-beta.vercel.app) | Flood-risk intelligence — microservices, ML ensemble, graph, LLM reasoning |
-| [**Sentinel**](https://github.com/Bishrav/Sentinel) | Python · Kafka · Neo4j · Isolation Forest · FSM | Phase 6 done · 183 files | Cybersecurity threat engine — behavioral ML, attack-path graph, sequence detection |
-| [**Nexus**](https://github.com/Bishrav/Nexus) | Python · AST · Git · Incremental indexing | Phase 5 · 61 files | Repository intelligence for AI tooling — deterministic symbol/relationship indexing |
-| [**LiveBoard**](https://github.com/Bishrav/LiveBoard) | Next.js · Socket.io · Redis · PostgreSQL | [Live](https://liveboard-production-6a27.up.railway.app) | Real-time collaborative task manager |
-| [**DevLens**](https://github.com/Bishrav/DevLens) | Next.js · OpenAI API · PostgreSQL | [Live](https://devlens-production-5624.up.railway.app) | AI code review — structured output, review history |
-| [**Shunya-Corp**](https://github.com/Bishrav/Shunya-Corp) | Next.js · TypeScript · Three.js | [Live](https://shunya.com.np) | Corporate 3D web platform |
+| Project | Lang | Status | Description |
+|---------|------|--------|-------------|
+| [**AEGIS**](https://github.com/Bishrav/AEGIS) | Python | [Live](https://aegis-dashboard-beta.vercel.app) | Flood-risk intelligence — Kafka, Neo4j, ML ensemble, RAG, LLM reasoning |
+| [**Sentinel**](https://github.com/Bishrav/Sentinel) | Python | Phase 6 done · 183 files | Cybersecurity threat engine — FSM, Isolation Forest, attack-path graph |
+| [**ATLAS**](https://github.com/Bishrav/ATLAS) | C++20 | Phase 4 · active | Routing engine — Dijkstra, A*, bidirectional, oracle, planned VRP solver |
+| [**Nexus**](https://github.com/Bishrav/Nexus) | Python | Phase 5 · active | Repository intelligence — AST indexing, incremental Git change planning |
+| [**LiveBoard**](https://github.com/Bishrav/LiveBoard) | TypeScript | [Live](https://liveboard-production-6a27.up.railway.app) | Real-time task manager — Socket.io, Redis, PostgreSQL |
+| [**DevLens**](https://github.com/Bishrav/DevLens) | TypeScript | [Live](https://devlens-production-5624.up.railway.app) | AI code review — OpenAI, structured output, review history |
 
 ---
 
