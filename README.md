@@ -18,8 +18,8 @@ Backend and AI/ML systems developer based in **Kathmandu, Nepal**, completing a 
 
 - **AEGIS** — flood-risk intelligence · Kafka · Neo4j · ML · RAG · **[Live](https://aegis-dashboard-beta.vercel.app)**
 - **Sentinel** — cybersecurity threat engine · FSM · Isolation Forest · attack-path graph · Phase 6 done
-- **Nexus** — repository intelligence for AI tooling · Python AST · incremental Git indexing · Phase 5
-- **ATLAS** — C++20 routing engine · Dijkstra · A* · bidirectional search · VRP solver planned · Phase 4
+- **Nexus** — repository intelligence for AI-assisted software engineering · Python AST · incremental Git indexing · Phase 7 productization
+- **ATLAS** — C++20 routing and optimization engine · Dijkstra · A* · ALT · VRP baselines · Phase 8 in progress
 - Also live: **[LiveBoard](https://liveboard-production-6a27.up.railway.app)** · **[DevLens](https://devlens-production-5624.up.railway.app)** · **[shunya.com.np](https://shunya.com.np)**
 - Seeking **backend or full-stack developer** roles in **Germany**
 
@@ -61,8 +61,8 @@ Backend and AI/ML systems developer based in **Kathmandu, Nepal**, completing a 
 |---------|------|--------|-------------|
 | [**AEGIS**](https://github.com/Bishrav/AEGIS) | Python | [Live](https://aegis-dashboard-beta.vercel.app) | Flood-risk intelligence — Kafka, Neo4j, ML ensemble, RAG, LLM reasoning |
 | [**Sentinel**](https://github.com/Bishrav/Sentinel) | Python | Phase 6 done · 183 files | Cybersecurity threat engine — FSM, Isolation Forest, attack-path graph |
-| [**ATLAS**](https://github.com/Bishrav/ATLAS) | C++20 | Phase 4 · active | Routing engine — Dijkstra, A*, bidirectional, oracle, planned VRP solver |
-| [**Nexus**](https://github.com/Bishrav/Nexus) | Python | Phase 5 · active | Repository intelligence — AST indexing, incremental Git change planning |
+| [**ATLAS**](https://github.com/Bishrav/ATLAS) | C++20 | Phase 8 in progress | Routing and optimization engine — deterministic benchmarks, dynamic routing, ALT A*, and VRP baselines |
+| [**Nexus**](https://github.com/Bishrav/Nexus) | Python | Phase 7 productization | Repository intelligence — AST indexing, incremental Git change planning, snapshots, and evaluation |
 | [**LiveBoard**](https://github.com/Bishrav/LiveBoard) | TypeScript | [Live](https://liveboard-production-6a27.up.railway.app) | Real-time task manager — Socket.io, Redis, PostgreSQL |
 | [**DevLens**](https://github.com/Bishrav/DevLens) | TypeScript | [Live](https://devlens-production-5624.up.railway.app) | AI code review — OpenAI, structured output, review history |
 
