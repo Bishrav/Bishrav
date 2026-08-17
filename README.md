@@ -18,6 +18,8 @@ Full-stack and AI/ML systems developer based in **Kathmandu, Nepal**, completing
 
 - AEGIS — autonomous flood-risk intelligence platform · **[Live](https://aegis-dashboard-beta.vercel.app)** · Phase 7 complete
 - Sentinel — cybersecurity threat correlation engine · behavioral ML + attack-path graph · **Phase 6 complete** · [Local portfolio project](https://github.com/Bishrav/Sentinel)
+- ATLAS — C++20 routing and optimization engine · deterministic graph algorithms, ALT routing, VRP baselines · **Phase 8 in progress** · [Research prototype](https://github.com/Bishrav/ATLAS)
+- NEXUS — repository intelligence engine for AI-assisted software engineering · deterministic source facts and change planning · **Phase 7 productization** · [In development](https://github.com/Bishrav/Nexus)
 - Also live: **[LiveBoard](https://liveboard-production-6a27.up.railway.app)** · **[DevLens](https://devlens-production-5624.up.railway.app)** · **[shunya.com.np](https://shunya.com.np)**
 - Seeking **full-stack or backend developer** roles in **Germany**
 
@@ -64,6 +66,8 @@ Full-stack and AI/ML systems developer based in **Kathmandu, Nepal**, completing
 | [**Sentinel**](https://github.com/Bishrav/Sentinel) | Python · FastAPI · scikit-learn · SQLite | Phase 6 complete · Local | Cybersecurity threat correlation engine — behavioral ML, sequence detection, graph analysis, explainable risk, and evidence-grounded investigation |
 | [**LiveBoard**](https://github.com/Bishrav/LiveBoard) | Next.js · Socket.io · Redis · PostgreSQL | [Live](https://liveboard-production-6a27.up.railway.app) | Real-time collaborative task manager — JWT auth, board rooms, presence |
 | [**DevLens**](https://github.com/Bishrav/DevLens) | Next.js · OpenAI API · PostgreSQL | [Live](https://devlens-production-5624.up.railway.app) | AI code review — structured output, 3-mode fallback, review history |
+| [**ATLAS**](https://github.com/Bishrav/ATLAS) | C++20 · CMake · graph algorithms · VRP | Phase 8 in progress | Routing and optimization engine with deterministic benchmarks, dynamic routing, ALT A*, and VRP baselines |
+| [**NEXUS**](https://github.com/Bishrav/Nexus) | Python · AST parsing · Git · JSON snapshots | Phase 7 productization | Repository intelligence engine for deterministic source facts, relationships, change planning, and evaluation |
 | [**SkillSwapWeb**](https://github.com/Bishrav/SkillSwapWeb) | React · Express · PostgreSQL | Done | Full-stack skill-sharing platform with social graph and test suite |
 | [**Shunya-Corp**](https://github.com/Bishrav/Shunya-Corp) | Next.js · TypeScript · Three.js | [Live](https://shunya.com.np) | Corporate 3D web platform with CI/CD |
 
@@ -89,6 +93,7 @@ The most useful evidence is in the repositories themselves: commit history, arch
 | AI/ML engineering | Behavioral ML, evaluation, model integration, evidence grounding |
 | Distributed and real-time systems | Event streams, replay safety, sequence correlation, resilience |
 | Security engineering | Threat graphs, attack paths, risk scoring, investigation workflows |
+| Algorithms and developer infrastructure | Graph routing, repository intelligence, deterministic evaluation |
 
 <div align="center">
 
@@ -104,6 +109,8 @@ Explore the main engineering projects:
 - [Sentinel](https://github.com/Bishrav/Sentinel) - security telemetry correlation and investigation
 - [LiveBoard](https://github.com/Bishrav/LiveBoard) - real-time collaborative systems
 - [DevLens](https://github.com/Bishrav/DevLens) - AI-assisted developer tooling
+- [ATLAS](https://github.com/Bishrav/ATLAS) - routing algorithms and vehicle-routing optimization
+- [NEXUS](https://github.com/Bishrav/Nexus) - repository intelligence for AI-assisted engineering
 
 [View my GitHub profile and contribution activity](https://github.com/Bishrav)
 
