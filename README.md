@@ -1,6 +1,10 @@
 <div align="center">
 
-# Bishrav Shiwakoti
+## Bishrav Shiwakoti
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:06b6d4&height=180&section=header&text=BISHRAV%20SHIWAKOTI&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20%7C%20Search%20%7C%20Trustworthy%20AI%20%7C%20Research&descAlignY=60&descSize=16" width="100%" alt="Bishrav Shiwakoti banner" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Bishrav+%F0%9F%91%8B;Full-Stack+Software+Developer;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Node.js;Python+%E2%80%A2+FastAPI+%E2%80%A2+PostgreSQL+%E2%80%A2+Docker;Building+products+from+Kathmandu%2C+Nepal+%F0%9F%87%B3%F0%9F%87%B5" alt="Typing SVG" />
 
 ### Backend, Search & AI/ML Systems Engineer
 
@@ -108,11 +112,43 @@ My current priority is developing NEBULA from a broad research prototype into a 
 6. reproducible publication artefacts.
 
 External academic supervision, ethics review, recruitment, and human evaluation will be handled through the appropriate university process.
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Bishrav&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%" alt="GitHub trophies" />
+
+<br/>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Bishrav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bishrav&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Bishrav&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bishrav&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Bishrav/Bishrav/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" width="100%" />
+
+</div>
 
 ---
 
 <div align="center">
 
 **Open to backend, search, AI/ML systems, and research engineering opportunities.**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:312e81,100:0f172a&height=90&section=footer" width="100%" alt="Footer decoration" />
 
 </div>
