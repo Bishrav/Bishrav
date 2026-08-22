@@ -1,32 +1,71 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=780&lines=Hey%2C+I'm+Bishrav+%F0%9F%91%8B;Backend+%26+AI%2FML+Systems+Developer;AEGIS+%E2%80%94+Flood+Intelligence+%F0%9F%9F%A2+LIVE;Sentinel+%E2%80%94+Cybersecurity+AI+%F0%9F%94%B4+Done;ATLAS+%E2%80%94+C%2B%2B20+Routing+%E2%9A%99%EF%B8%8F+All+8+Phases;NEBULA+%E2%80%94+Search+Engine+%F0%9F%94%B5+Java+%2B+BM25+%2B+HNSW;Python+%E2%80%A2+Java+%E2%80%A2+C%2B%2B+%E2%80%A2+TypeScript+%E2%80%A2+Node.js;Open+to+Germany+%F0%9F%87%A9%F0%9F%87%AA" alt="Typing SVG" />
+# Bishrav Shiwakoti
 
-<br/>
+### Backend, Search & AI/ML Systems Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bishrav-shiwakoti-603201345/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bishrav-portfolio-production.up.railway.app)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bishravs@gmail.com)
+I build measurable systems at the intersection of information retrieval, trustworthy AI, distributed systems, graph algorithms, and developer infrastructure.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Bishrav-181717?style=for-the-badge&logo=github)](https://github.com/Bishrav)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bishrav-shiwakoti-603201345/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bishrav-portfolio-production.up.railway.app)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bishravs@gmail.com)
 
 </div>
 
 ---
 
-## About me
+## About
 
-Backend and AI/ML systems developer based in **Kathmandu, Nepal**, completing a **BSc (Hons) Computing** at Softwarica College (Coventry University, 2027). I build intelligence systems across five languages — ML pipelines, event streaming, graph algorithms, search engines, C++ routing, and production dashboards.
+I am a BSc (Hons) Computing student at Softwarica College, affiliated with Coventry University, building research-oriented software systems from first principles.
 
-- **AEGIS** — flood-risk intelligence · Kafka · Neo4j · ML · RAG · **[Live](https://aegis-dashboard-beta.vercel.app)**
-- **Sentinel** — cybersecurity threat engine · FSM · Isolation Forest · attack-path graph · Phase 6 done
-- **ATLAS** — C++20 routing engine · Dijkstra · A* · ALT landmarks · VRP · **All 8 phases complete**
-- **Nexus** — repository intelligence for AI tooling · Python AST · incremental indexing · Phase 5
-- **NEBULA** — search engine from scratch · Java · BM25 · HNSW · PageRank · hybrid ranking · Active
-- Also live: **[LiveBoard](https://liveboard-production-6a27.up.railway.app)** · **[DevLens](https://devlens-production-5624.up.railway.app)** · **[shunya.com.np](https://shunya.com.np)**
-- Seeking **backend or full-stack developer** roles in **Germany**
+My work focuses on turning ambitious ideas into inspectable engineering artefacts:
 
----
+- deterministic algorithms before opaque abstractions;
+- reproducible experiments before performance claims;
+- explicit evidence before generated answers;
+- failure testing before reliability claims;
+- documented limitations before novelty claims.
 
-## Languages
+I am currently seeking opportunities in backend engineering, information retrieval, AI/ML systems, and research-oriented software engineering.
+
+## Featured research project
+
+### NEBULA — Trust-oriented hybrid retrieval
+
+[![NEBULA CI](https://github.com/Bishrav/NEBULA/actions/workflows/validation.yml/badge.svg)](https://github.com/Bishrav/NEBULA/actions/workflows/validation.yml)
+[![Java](https://img.shields.io/badge/Java-17-orange?logo=openjdk)](https://github.com/Bishrav/NEBULA)
+[![Research](https://img.shields.io/badge/research-preliminary%20study-2563eb)](https://github.com/Bishrav/NEBULA)
+
+NEBULA is an empirical investigation of how lexical relevance, semantic similarity, freshness, source-authority, graph structure, and evidence-related signals affect engineering knowledge retrieval.
+
+The system includes:
+
+- BM25, semantic, hybrid, RRF, and trust-oriented retrieval baselines;
+- PageRank graph analysis and custom HNSW approximate-nearest-neighbour search;
+- consistent hashing, query coordination, replication, retries, circuit breaking, and partial-result reporting;
+- per-query metrics, weighted annotation agreement, paired uncertainty analysis, and Holm correction tooling;
+- corpus provenance contracts, deterministic dataset splitting, claim ledgers, and research-readiness documentation.
+
+The project is intentionally labelled **research prototype / preliminary study**. A realistic public corpus, independently judged query set, human study, and ethics review remain external research work.
+
+**[Explore NEBULA](https://github.com/Bishrav/NEBULA)** · **[Research plan](https://github.com/Bishrav/NEBULA/blob/agent/documentation-foundation/docs/research/research-plan.md)** · **[Research audit](https://github.com/Bishrav/NEBULA/blob/agent/documentation-foundation/docs/research/repository-audit.md)**
+
+## Selected projects
+
+| Project | Focus | Status |
+| --- | --- | --- |
+| [AEGIS](https://github.com/Bishrav/AEGIS) | Flood-risk intelligence using Kafka, Neo4j, ML ensembles, RAG, and LLM reasoning | Live |
+| [ATLAS](https://github.com/Bishrav/ATLAS) | C++20 routing engine using Dijkstra, A*, ALT landmarks, and VRP | Complete |
+| [Sentinel](https://github.com/Bishrav/Sentinel) | Cybersecurity threat analysis using finite-state modelling, Isolation Forest, and attack-path graphs | Active |
+| [Nexus](https://github.com/Bishrav/Nexus) | Repository intelligence using Python AST analysis and incremental indexing | Active |
+| [NEBULA](https://github.com/Bishrav/NEBULA) | Trust-oriented hybrid retrieval and empirical search evaluation | Research prototype |
+| [LiveBoard](https://github.com/Bishrav/LiveBoard) | Real-time task management using Socket.IO, Redis, and PostgreSQL | Live |
+| [DevLens](https://github.com/Bishrav/DevLens) | AI-assisted code review with structured outputs and review history | Live |
+
+## Technical focus
+
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -35,59 +74,45 @@ Backend and AI/ML systems developer based in **Kathmandu, Nepal**, completing a 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
-## Backend & Streaming
+### Systems and infrastructure
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
-
-## ML / Search / Graph
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
-
-## Databases & DevOps
-
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
----
+### Research themes
 
-## Projects
+Information Retrieval · Trustworthy AI · Hybrid Search · BM25 · RRF · HNSW · PageRank · Distributed Systems · Empirical Evaluation · Reproducibility
 
-| Project | Lang | Status | Description |
-|---------|------|--------|-------------|
-| [**AEGIS**](https://github.com/Bishrav/AEGIS) | Python | [Live](https://aegis-dashboard-beta.vercel.app) | Flood-risk intelligence — Kafka, Neo4j, ML ensemble, RAG, LLM reasoning |
-| [**Sentinel**](https://github.com/Bishrav/Sentinel) | Python | Phase 6 done · 183 files | Cybersecurity threat engine — FSM, Isolation Forest, attack-path graph |
-| [**ATLAS**](https://github.com/Bishrav/ATLAS) | C++20 | All 8 phases complete | Routing engine — Dijkstra, A*, ALT landmarks, VRP, in-process REST adapter |
-| [**NEBULA**](https://github.com/Bishrav/NEBULA) | Java | Active · 135 files | Search engine — BM25, HNSW, PageRank, hybrid ranking, NDCG evaluation |
-| [**Nexus**](https://github.com/Bishrav/Nexus) | Python | Phase 5 · active | Repository intelligence — AST indexing, incremental Git change planning |
-| [**LiveBoard**](https://github.com/Bishrav/LiveBoard) | TypeScript | [Live](https://liveboard-production-6a27.up.railway.app) | Real-time task manager — Socket.io, Redis, PostgreSQL |
-| [**DevLens**](https://github.com/Bishrav/DevLens) | TypeScript | [Live](https://devlens-production-5624.up.railway.app) | AI code review — OpenAI, structured output, review history |
+## Engineering principles
 
----
+- Build the core mechanism before adding a black-box dependency.
+- Keep baselines, configurations, and evaluation data versioned.
+- Separate measured results from hypotheses and future work.
+- Treat explanations as evidence interfaces, not automatic proof of correctness.
+- Design failure modes, observability, and recovery paths explicitly.
+- Make research claims narrower than the evidence supporting them.
 
-## GitHub stats
+## Current direction
 
-<div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Bishrav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bishrav&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=Bishrav&theme=tokyonight&hide_border=true" />
-</div>
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bishrav&theme=tokyo-night&hide_border=true&area=true" />
-</div>
+My current priority is developing NEBULA from a broad research prototype into a defensible empirical study:
+
+1. public corpus provenance and licensing;
+2. realistic information-need queries;
+3. independent graded relevance judgements;
+4. held-out evaluation and statistical uncertainty;
+5. signal ablations, robustness, and bias analysis;
+6. reproducible publication artefacts.
+
+External academic supervision, ethics review, recruitment, and human evaluation will be handled through the appropriate university process.
 
 ---
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Bishrav&color=6366f1&style=flat-square&label=Profile+views" />
+
+**Open to backend, search, AI/ML systems, and research engineering opportunities.**
+
 </div>
