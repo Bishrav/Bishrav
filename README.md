@@ -12,7 +12,11 @@ I build measurable systems at the intersection of information retrieval, trustwo
 
 [![GitHub](https://img.shields.io/badge/GitHub-Bishrav-181717?style=for-the-badge&logo=github)](https://github.com/Bishrav)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bishrav-shiwakoti-603201345/)
+<<<<<<< HEAD
 [![Portfolio]([https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bishrav-portfolio-production.up.railway.app](https://portfolio-self-phi-65.vercel.app/))
+=======
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-self-phi-65.vercel.app/)
+>>>>>>> 46728be (docs: refresh profile portfolio link)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bishravs@gmail.com)
 
 </div>
@@ -53,7 +57,7 @@ The system includes:
 
 The project is intentionally labelled **research prototype / preliminary study**. A realistic public corpus, independently judged query set, human study, and ethics review remain external research work.
 
-**[Explore NEBULA](https://github.com/Bishrav/NEBULA)** · **[Research plan](https://github.com/Bishrav/NEBULA/blob/agent/documentation-foundation/docs/research/research-plan.md)** · **[Research audit](https://github.com/Bishrav/NEBULA/blob/agent/documentation-foundation/docs/research/repository-audit.md)**
+**[Explore NEBULA](https://github.com/Bishrav/NEBULA)** · **[Research plan](https://github.com/Bishrav/NEBULA/blob/main/docs/research/research-plan.md)** · **[Research audit](https://github.com/Bishrav/NEBULA/blob/main/docs/research/repository-audit.md)**
 
 ## Selected projects
 
