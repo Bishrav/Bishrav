@@ -12,7 +12,7 @@ I build measurable systems at the intersection of information retrieval, trustwo
 
 [![GitHub](https://img.shields.io/badge/GitHub-Bishrav-181717?style=for-the-badge&logo=github)](https://github.com/Bishrav)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bishrav-shiwakoti-603201345/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bishrav-portfolio-production.up.railway.app)
+[![Portfolio]([https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bishrav-portfolio-production.up.railway.app](https://portfolio-self-phi-65.vercel.app/))
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bishravs@gmail.com)
 
 </div>
