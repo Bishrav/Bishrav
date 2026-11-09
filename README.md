@@ -1,8 +1,12 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:06b6d4&height=190&section=header&text=BISHRAV%20SHIWAKOTI&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Retrieval%20%7C%20Trustworthy%20AI%20%7C%20Distributed%20Systems&descAlignY=62&descSize=16" width="100%" alt="Animated Bishrav Shiwakoti header" />
+
 # Bishrav Shiwakoti
 
-### Research-oriented software engineer • Information retrieval • Trustworthy AI • Distributed systems
+### Research-oriented software engineer
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1400&color=06B6D4&center=true&vCenter=true&width=760&lines=Building+systems+that+can+be+inspected+and+reproduced;Information+retrieval+%E2%80%A2+Trustworthy+AI+%E2%80%A2+Search+evaluation;Java+%E2%80%A2+Python+%E2%80%A2+C%2B%2B20+%E2%80%A2+Distributed+systems;Research+engineering+from+Kathmandu%2C+Nepal" alt="Animated research focus" />
 
 <p>
   <a href="https://github.com/Bishrav/NEBULA">NEBULA</a> ·
@@ -20,11 +24,11 @@
 
 ---
 
-## About
+## Research identity
 
 I am Bishrav Shiwakoti, a BSc (Hons) Computing student at Softwarica College, affiliated with Coventry University, and a research-oriented software engineer based in Kathmandu, Nepal.
 
-I build inspectable systems that connect algorithms with measurable evidence. My work is guided by a simple principle:
+I build inspectable systems that connect algorithms with measurable evidence.
 
 > Build systems people can inspect, reproduce, evaluate, and improve.
 
@@ -38,6 +42,17 @@ My current interests are:
 - reproducible experiments and responsible research engineering.
 
 I am interested in research supervision, research collaborations, internships, and engineering opportunities in information retrieval, AI/ML systems, backend engineering, and dependable software.
+
+## Research snapshot
+
+| Area | Current focus |
+| --- | --- |
+| Main research project | NEBULA: trust-oriented hybrid retrieval for engineering knowledge |
+| Core question | How observable ranking signals affect retrieval effectiveness |
+| Methods | BM25, dense retrieval, hybrid fusion, BGE, HNSW, PageRank |
+| Systems work | Sharding, replication, retries, circuit breaking, partial results |
+| Research practice | Provenance, blinded annotation, qrels, checksums, uncertainty |
+| Current status | Research prototype with preliminary protected evidence |
 
 ## Featured research
 
@@ -59,7 +74,7 @@ The system combines:
 - sharding, replication, retries, circuit breaking, and partial-result reporting;
 - reproducible manifests, checksums, fixed timestamps, annotation validation, and claim controls.
 
-The current status is intentionally conservative: NEBULA is a research prototype with preliminary protected evaluation evidence. The project does not claim statistical superiority, general search quality, user benefit, or production readiness. A fresh sealed held-out evaluation is being prepared before stronger academic claims are made.
+The status is intentionally conservative: NEBULA is a research prototype with preliminary protected evaluation evidence. It does not claim statistical superiority, general search quality, user benefit, or production readiness. A fresh sealed held-out evaluation is being prepared before stronger academic claims are made.
 
 Useful entry points:
 
@@ -99,9 +114,13 @@ Useful entry points:
 - Use human evaluation and institutional review where research claims require them.
 - Make claims narrower than the evidence supporting them.
 
-## Recognition
+## Verified recognition
 
-My work on [Bishrav/NEBULA](https://github.com/Bishrav/NEBULA) has been included in the [XERJ Corpus Hub](https://hub.xerj.org/contributors/Bishrav), an open index of reusable code and research implementations for AI-assisted software development.
+- **XERJ Corpus Hub contributor:** work from [Bishrav/NEBULA](https://github.com/Bishrav/NEBULA) was accepted into the [XERJ Corpus Hub](https://hub.xerj.org/contributors/Bishrav).
+- **Open-source research publication:** NEBULA is publicly available under the MIT License with reproducible documentation and CI checks.
+- **Research communication:** an academic review summary and evidence-status documentation are maintained in the repository.
+
+> GitHub profile achievements and contribution milestones are shown directly by GitHub when available. I have not added unverified awards or badges here.
 
 ## Current direction
 
@@ -125,6 +144,8 @@ If you work on information retrieval, trustworthy AI, search evaluation, knowled
 ---
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:312e81,100:0f172a&height=90&section=footer" width="100%" alt="Animated footer decoration" />
 
 *Inspectability, reproducibility, and honest evaluation before impressive claims.*
 
