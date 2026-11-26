@@ -4,7 +4,7 @@
 
 # Bishrav Shiwakoti
 
-### Research-oriented software engineer
+### Software Engineering · Backend Systems · Applied AI Research
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1400&color=06B6D4&center=true&vCenter=true&width=760&lines=Building+systems+that+can+be+inspected+and+reproduced;Information+retrieval+%E2%80%A2+Trustworthy+AI+%E2%80%A2+Search+evaluation;Java+%E2%80%A2+Python+%E2%80%A2+C%2B%2B20+%E2%80%A2+Distributed+systems;Research+engineering+from+Kathmandu%2C+Nepal" alt="Animated research focus" />
 
@@ -28,7 +28,9 @@
 
 I am Bishrav Shiwakoti, a BSc (Hons) Computing student at Softwarica College, affiliated with Coventry University, and a research-oriented software engineer based in Kathmandu, Nepal.
 
-I build inspectable systems that connect algorithms with measurable evidence.
+I build backend services, retrieval engines, and AI-enabled tools with an emphasis on inspectable architecture, reproducible evaluation, and dependable behavior.
+
+**Open to:** Junior Software Engineering, Backend Engineering, AI/ML Systems internships and research collaborations.
 
 > Build systems people can inspect, reproduce, evaluate, and improve.
 
@@ -74,7 +76,7 @@ The system combines:
 - sharding, replication, retries, circuit breaking, and partial-result reporting;
 - reproducible manifests, checksums, fixed timestamps, annotation validation, and claim controls.
 
-The status is intentionally conservative: NEBULA is a research prototype with preliminary protected evaluation evidence. It does not claim statistical superiority, general search quality, user benefit, or production readiness. A fresh sealed held-out evaluation is being prepared before stronger academic claims are made.
+The status is intentionally conservative: NEBULA is a research prototype with preliminary protected evaluation evidence. It does not claim statistical superiority, general search quality, user benefit, or production readiness. The repository reports a public attributed corpus of 843 documents and a preliminary held-out evaluation covering 308 judged pairs across 16 queries. These results concern pooled known-item/source-page identification, not general retrieval quality.
 
 Useful entry points:
 
@@ -88,6 +90,8 @@ Useful entry points:
 
 | Project | Focus |
 | --- | --- |
+| [Burito](https://github.com/Bishrav/Burito) | Local-first LLM assistant with Ollama, persistent memory and approval-gated desktop/browser tools (in development) |
+| [PixelPunch](https://github.com/Bishrav/PixelPunch) | React and Express automotive marketplace project with JWT/OAuth, database integration and API tests |
 | [AEGIS](https://github.com/Bishrav/AEGIS) | Flood-risk intelligence using Kafka, Neo4j, machine-learning ensembles, RAG, and LLM reasoning |
 | [ATLAS](https://github.com/Bishrav/ATLAS) | C++20 routing engine using Dijkstra, A*, ALT landmarks, and vehicle-routing algorithms |
 | [Sentinel](https://github.com/Bishrav/Sentinel) | Cybersecurity threat analysis with finite-state modelling, Isolation Forest, and attack-path graphs |
@@ -100,6 +104,8 @@ Useful entry points:
 **Languages:** Java, Python, C++20, TypeScript, JavaScript, Kotlin
 
 **Search and AI:** BM25, TF–IDF, vector search, BGE embeddings, HNSW, RRF, PageRank, graph retrieval, RAG, evaluation methodology
+
+**Application development:** React, Node.js, Express, REST APIs, Kotlin, Jetpack Compose, Firebase, JWT/OAuth, Git
 
 **Systems:** Distributed search, sharding, replication, retries, circuit breakers, Docker, Docker Compose, Kafka, Redis, PostgreSQL, REST APIs
 
@@ -117,7 +123,7 @@ Useful entry points:
 ## Verified recognition
 
 - **XERJ Corpus Hub contributor:** work from [Bishrav/NEBULA](https://github.com/Bishrav/NEBULA) was accepted into the [XERJ Corpus Hub](https://hub.xerj.org/contributors/Bishrav).
-- **Open-source research publication:** NEBULA is publicly available under the MIT License with reproducible documentation and CI checks.
+- **Open-source research artifact:** NEBULA is publicly available under the MIT License with reproducible documentation and CI checks.
 - **Research communication:** an academic review summary and evidence-status documentation are maintained in the repository.
 
 > GitHub profile achievements and contribution milestones are shown directly by GitHub when available. I have not added unverified awards or badges here.
@@ -126,7 +132,7 @@ Useful entry points:
 
 I am developing NEBULA from a broad systems prototype into a more defensible empirical study by focusing on:
 
-1. a fresh sealed held-out evaluation;
+1. extending and validating the preliminary held-out evaluation;
 2. stronger depth-10 pooled judgments;
 3. per-query and category-level failure analysis;
 4. uncertainty, robustness, and bias analysis;
